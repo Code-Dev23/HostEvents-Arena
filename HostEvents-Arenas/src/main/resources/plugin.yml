@@ -1,0 +1,4 @@
+name: HostEvents-Arenas
+version: '${project.version}'
+main: it.codedev.hosteventsarenas.HEA
+api-version: '1.20'
